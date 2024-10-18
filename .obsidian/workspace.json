@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "eafeba3472173b15",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4ea5e815a697da8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2140c8931c0f90d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main notes - zettlekasten/High value man.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d817644b8bd79b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd124baec8889190",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d07242a1f1af30b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f51f8a11a282f573",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "345bebb6c6e93fa8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "607203610da54403",
+    "type": "split",
+    "children": [
+      {
+        "id": "17adb6fd43329833",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aa857fabbb0a2f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6 - Main notes - zettlekasten/High value man.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ffc2dd029c8311f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6 - Main notes - zettlekasten/High value man.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82bda3fe82e88290",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0037ffea2d79a0ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6 - Main notes - zettlekasten/High value man.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "2140c8931c0f90d0",
+  "lastOpenFiles": [
+    "3 - tags/character-building.md",
+    "6 - Main notes - zettlekasten/Build discipline.md",
+    "6 - Main notes - zettlekasten/Debouncing.md",
+    "6 - Main notes - zettlekasten/VIT assessment - Data analysis with python.md",
+    "1*S2HFXOuKGbsUqYcbeA1nAw.gif",
+    "6 - Main notes - zettlekasten/High value man.md",
+    "6 - Main notes - zettlekasten/The intro to Database management system.md",
+    "Pasted image 20241016020650.png",
+    "6 - Main notes - zettlekasten/Relational Algebra.md",
+    "Excalidraw/Three-schema-architecture.md",
+    "3 - tags/DBMS.md",
+    "2 - Source materials/About.md",
+    "Excalidraw/dbms.excalidraw.md",
+    "6 - Main notes - zettlekasten/flutter state management.md",
+    "6 - Main notes - zettlekasten/Render Tree.md",
+    "6 - Main notes - zettlekasten/Navigating everyday weeds.md",
+    "6 - Main notes - zettlekasten/Clean Architecture.md",
+    "6 - Main notes - zettlekasten/Kernel.md",
+    "6 - Main notes - zettlekasten/Elmasri navathe's DBMS book.md",
+    "2 - Source materials/DBMS - VIT B - Syllabus.md",
+    "2 - Source materials/Tree Datastructure.md",
+    "Excalidraw",
+    "2 - Source materials/Widget Tree.md",
+    "Pasted image 20241015225531.png",
+    "Pasted image 20241015225222.png",
+    "Pasted image 20241015222539.png",
+    "Pasted image 20241015222514.png",
+    "Pasted image 20241015222452.png",
+    "5 - Templates/Main Note.md",
+    "3 - tags/Computer Science.md",
+    "6 - Main notes - zettlekasten/DBMS.md",
+    "6 - Main notes - zettlekasten/Gym routine.md",
+    "6 - Main notes - zettlekasten/Linked List.md",
+    "3 - tags/Gym.md",
+    "flutter-app-architecture.webp",
+    "Pasted image 20241014184159.png",
+    "Pasted image 20241014025748.png",
+    "5 - Templates",
+    "6 - Main notes - zettlekasten",
+    "4 - Indexes",
+    "3 - tags",
+    "2 - Source materials",
+    "1 - Rough Notes"
+  ]
+}

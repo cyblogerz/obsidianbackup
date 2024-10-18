@@ -1,0 +1,3 @@
+- once a tag gets big enough we can convert it into an index 
+- we can move the tag into index folder 
+- In an index file - there will be several sub headings -- we will fill the sub headings with relevant notes
