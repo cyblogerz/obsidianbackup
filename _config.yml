@@ -1,0 +1,30 @@
+# _config.yml
+
+# Site settings
+title: ByteVati - Zettelkasten
+description: >
+  A Zettelkasten-style blog exploring everything from tech innovations and coding insights 
+  to life lessons, productivity hacks, and personal growth. Dive into a blend of technical deep dives, 
+  philosophical musings, and everyday reflections.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://bytevati.com" # the base hostname & protocol for your site
+
+# GitHub Pages theme
+theme: jekyll-theme-minimal # change this to any GitHub Pages supported theme
+
+# Enable syntax highlighting
+highlighter: rouge
+
+# Social media usernames (optional)
+twitter_username: cyblogerz
+github_username: cyblogerz
+
+# Plugins (optional)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Markdown settings (optional)
+markdown: kramdown
+kramdown:
+  input: GFM
